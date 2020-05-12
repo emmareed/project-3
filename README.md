@@ -1,10 +1,8 @@
 # Project 3 Repo
 
-<<<<<<< HEAD
-[My User Page](https://emmareed.github.io/)
-=======
-[https://emmareed.github.io/](User Page)
->>>>>>> 4f40edd13a5b05ed725b4be4b4264354bd5cfd24
+
+[User Page](https://emmareed.github.io/)
+
 
 Repo Start-State:
 
