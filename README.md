@@ -1,6 +1,6 @@
 # Project 3 Repo
 
-[ https://emmareed.github.io/](Github User Page)
+[My User Page](https://emmareed.github.io/)
 
 Repo Start-State:
 
